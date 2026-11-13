@@ -1,0 +1,5 @@
+disabled = false
+maxThreads = 4
+synchronizedEntities = ["minecraft:tnt", "minecraft:experience_orb", "minecraft:item"]
+enableAsyncSpawn = false
+enableAsyncRandomTicks = false
