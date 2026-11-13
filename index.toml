@@ -337,6 +337,10 @@ file = "mods/lmd.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/loot-table-modifier.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 metafile = true
 
@@ -414,6 +418,10 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/monkeylib538.pw.toml"
 metafile = true
 
 [[files]]
@@ -718,6 +726,10 @@ metafile = true
 
 [[files]]
 file = "mods/ubes-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-mob-farms.pw.toml"
 metafile = true
 
 [[files]]
