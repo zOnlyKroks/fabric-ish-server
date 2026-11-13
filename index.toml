@@ -249,6 +249,10 @@ file = "mods/fast-ip-ping.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fast-item-frames.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 metafile = true
 
