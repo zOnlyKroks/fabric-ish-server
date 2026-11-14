@@ -1,3 +1,0 @@
-{$MAP_DOMAIN} {
-	reverse_proxy mc:8100
-}
