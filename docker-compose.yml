@@ -23,6 +23,7 @@ services:
       TYPE: FABRIC
       VERSION: "${MC_VERSION:-26.3}"
       FABRIC_LOADER_VERSION: "${FABRIC_LOADER_VERSION:-0.20.1}"
+      SEED: "${MC_SEED:-}"
       # packwiz-installer syncs mods from the upstream pack on every start.
       # ./revert.sh sets PACKWIZ_URL_OVERRIDE (empty) in .env to freeze mods while
       # a snapshot is restored; an empty value disables the sync.
