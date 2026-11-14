@@ -3,11 +3,11 @@ name = 'Voxy Server Side'
 side = 'both'
 
 [download]
-hash = '4ef6ff1488e27657b1020e24a2380b7054f3a5e02a27e2ac18a5a16803b1713a8bca81a279420446b0638c3fae02d32ddf39581060b6ab0891b22b1958c7825d'
+hash = '1f17ea40f5e864e0d4481cf017b0a018333a155b7a6d9296718a9379e2a966f7326c36c8e1bc7552ddc172679094b6f9d3464df8408b009809f25ca6653a023c'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/84zcagOb/versions/pelnHKPK/voxy-server-side-fabric.jar'
+url = 'https://cdn.modrinth.com/data/84zcagOb/versions/NpFgQ6l9/voxy-server-side-fabric.jar'
 
 [update.modrinth]
 mod-id = '84zcagOb'
-version = 'pelnHKPK'
+version = 'NpFgQ6l9'
