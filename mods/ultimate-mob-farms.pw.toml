@@ -1,0 +1,13 @@
+name = "Ultimate Mob Farms"
+filename = "ultimate-mob-farms-fabric-26.3-1.4.0+fabric+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VYSSzW0p/versions/k4yni3ZX/ultimate-mob-farms-fabric-26.3-1.4.0%2Bfabric%2B26.3.jar"
+hash-format = "sha512"
+hash = "cfdb75e69323e76f5b5de1519ae5e6cc7af357670d1cc4d3b970184fbe0b2ef95d138f3fbf55d3df5eec97bd9ac04633891978123a1eda73ead4e79789e7d58e"
+
+[update]
+[update.modrinth]
+mod-id = "VYSSzW0p"
+version = "k4yni3ZX"
