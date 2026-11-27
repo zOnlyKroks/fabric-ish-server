@@ -417,6 +417,10 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/monkeylib538.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/moogs-structure-lib.pw.toml"
 metafile = true
 
@@ -694,6 +698,10 @@ metafile = true
 
 [[files]]
 file = "mods/time-in-a-bottle-universal.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tiny-terrors.pw.toml"
 metafile = true
 
 [[files]]

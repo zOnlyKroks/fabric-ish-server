@@ -1,0 +1,13 @@
+name = "Tiny Terrors"
+filename = "tiny-terrors-fabric-26.1-1.1.0+fabric+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RpKPCJcY/versions/ln7uQDCC/tiny-terrors-fabric-26.1-1.1.0%2Bfabric%2B26.1.jar"
+hash-format = "sha512"
+hash = "91188b61bd71d4f4e471bfee12b58a978ac4e388462dc0576e3f724c4092b2839b544d0a78b03c69a55805b0f601e1799bf878f0f08301e73a80feb9d8c6d009"
+
+[update]
+[update.modrinth]
+mod-id = "RpKPCJcY"
+version = "ln7uQDCC"
