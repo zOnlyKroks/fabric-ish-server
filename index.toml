@@ -681,6 +681,10 @@ file = "mods/swing-through-grass.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tater.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 metafile = true
 

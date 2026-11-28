@@ -1,0 +1,13 @@
+name = "Tater"
+filename = "tater-0.8.0+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GZITnQ97/versions/ew6NMsXO/tater-0.8.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "3c18d2cc47c7cf74930cbb54e4046377333abf98954aeb22ce75aafd1cd5dd76b83a6d3bccfcbe66ce47427059a5d25f63cf164b79df3a97ea8120986503e0ea"
+
+[update]
+[update.modrinth]
+mod-id = "GZITnQ97"
+version = "ew6NMsXO"
